@@ -1,0 +1,24 @@
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\bin\Debug\HitTestRunner.dll
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\bin\Debug\HitTestRunner.pdb
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\bin\Debug\HitTestRunner.xml
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\HitTestRunner.HitTestForm.resources
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\HitTestRunner.Resources.resources
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\ResGen.read.1.tlog
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\ResGen.write.1.tlog
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\HitTestRunner.dll
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\HitTestRunner.xml
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\obj\Debug\HitTestRunner.pdb
+C:\Users\pierckbp\AppData\Local\Temporary Projects\HitTestRunner\bin\Debug\HitTestRunner.esriAddIn
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Debug\HitTestRunner.dll
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Debug\HitTestRunner.pdb
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Debug\HitTestRunner.xml
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\ResolveAssemblyReference.cache
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\HitTestRunner.HitTestForm.resources
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\HitTestRunner.Resources.resources
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\ResGen.read.1.tlog
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\ResGen.write.1.tlog
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\HitTestRunner.dll
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\HitTestRunner.xml
+c:\data\visual studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Debug\HitTestRunner.pdb
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Debug\HitTestRunner.esriAddIn

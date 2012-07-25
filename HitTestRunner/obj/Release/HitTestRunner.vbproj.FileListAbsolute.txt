@@ -1,0 +1,12 @@
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Release\HitTestRunner.dll
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Release\HitTestRunner.pdb
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Release\HitTestRunner.xml
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\ResolveAssemblyReference.cache
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\HitTestRunner.HitTestForm.resources
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\HitTestRunner.Resources.resources
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\ResGen.read.1.tlog
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\ResGen.write.1.tlog
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\HitTestRunner.dll
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\HitTestRunner.xml
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\obj\Release\HitTestRunner.pdb
+C:\data\Visual Studio 2010\Projects\HitTestRunner\HitTestRunner\bin\Release\HitTestRunner.esriAddIn
